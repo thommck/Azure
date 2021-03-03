@@ -57,8 +57,11 @@ These are the elements outlined in John Gruber’s original design document. All
 [title](https://www.example.com)
 
 ### Image
+Just an image:
+![risual logo](https://www.risual.com/wp-content/themes/risual_20/img/risual_logo.svg)
 
-![alt text](image.jpg)
+Image with Title and Hyperlink
+[![An old rock in the desert](https://www.risual.com/wp-content/themes/risual_20/img/risual_logo.svg "See how risual can help")](https://www.risual.com)
 
 ## Extended Syntax
 
